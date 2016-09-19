@@ -1,0 +1,27 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "this is for js testing tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "helloworld"
+  },
+  "keywords": [
+    "khsdf"
+  ],
+  "author": "naieem",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.3",
+    "jshint-stylish": "^2.2.1",
+    "karma": "^1.3.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
